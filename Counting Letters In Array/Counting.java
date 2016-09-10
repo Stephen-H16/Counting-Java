@@ -14,7 +14,7 @@ public class Counting {
                     count++;
                 }
             }
-            System.out.println("Word = " + letters[i].toUpperCase() + " is repeted " + count + " times");
+            System.out.println("Letters = " + letters[i].toUpperCase() + " is repeted " + count + " times");
         }
     }
 
